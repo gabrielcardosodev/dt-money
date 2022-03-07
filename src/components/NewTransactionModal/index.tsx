@@ -1,10 +1,8 @@
 import { FormEvent, useState } from 'react';
 import Modal from 'react-modal';
-
 import imgIncome from '../../assets/income.svg'
 import imgOutcome from '../../assets/outcome.svg'
 import imgClose from '../../assets/close.svg'
-
 import { api } from '../../services/api';
 
 import { Container, RadioButton, TransactionTypeContainer } from './styles';
