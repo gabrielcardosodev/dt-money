@@ -24,8 +24,7 @@ export function Summary() {
         withdraws: 0,
         total: 0
     })
-
-    console.log(transactions)
+    
   return (
       <Container>
     <div>
